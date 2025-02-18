@@ -42,3 +42,6 @@ public class Server {
         }
     }
 }
+
+// docker run -p 5000:5000 java-server
+// docker build -t java-server .
